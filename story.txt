@@ -1,5 +1,10 @@
 print("MELCOW")
 n=int(input().strip())
 for i in range(n):
-  print(i*"*")
-print(SalimKumar.jpg)
+  print(i*"*") print(SalimKumar.jpg) 
+i=TRUE
+while i:
+	if n==5:
+		print("Yeah")
+	else:
+		i=0
