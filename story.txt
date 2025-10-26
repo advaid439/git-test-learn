@@ -1,7 +1,7 @@
 print("MELCOW")
 n=int(input().strip())
 for i in range(n):
-  print(i*"*") print(SalimKumar.jpg) 
+  print(i*"*SalimKumar.jpg") 
 i=TRUE
 while i:
 	if n==5:
